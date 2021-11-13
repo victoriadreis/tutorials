@@ -1,4 +1,3 @@
-mercadovsuniversidade
-
 # tutorials
 
+Some practical applications.
